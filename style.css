@@ -191,3 +191,63 @@ a:hover {
 .phot img:hover {
     transform: scale(1.2); 
    }
+.open-home {
+    position: absolute;
+    margin-right: 325px;
+    padding: 5px;
+    transition: 0.5s; 
+    border-radius: 5px;
+    color: #75aadb;
+    background-color: whitesmoke;
+}
+.open-home:hover {
+    background-color: #75aadb;
+    opacity: 1;         
+}
+.ahome {
+    color:#75aadb;
+}
+.ahome:hover {
+    text-decoration: none;
+    color: whitesmoke;
+}
+.open-worldcup {
+    position: absolute;
+    margin-right: 150px;
+    padding: 5px;
+    transition: 0.5s; 
+    border-radius: 5px;
+    color: #75aadb;
+    background-color: whitesmoke;
+}
+.open-worldcup:hover {
+    background-color: #75aadb;
+    opacity: 1;         
+}
+.aworldcup {
+    color:#75aadb;
+}
+.aworldcup:hover {
+    text-decoration: none;
+    color: whitesmoke;
+}
+.open-trophies {
+    position: absolute;
+    margin-left: 135px;
+    padding: 5px;
+    transition: 0.5s; 
+    border-radius: 5px;
+    color: #75aadb;
+    background-color: whitesmoke;
+}
+.open-trophies:hover {
+    background-color: #75aadb;
+    opacity: 1;         
+}
+.atro {
+    color:#75aadb;
+}
+.atro:hover {
+    text-decoration: none;
+    color: whitesmoke;
+}
